@@ -47,11 +47,12 @@ Making the most of my time to become a Software Engineer. Currently undergraduat
  
  ### 👁‍🗨 Short Term Goals:
  - Get a job as a React developer to enhance my skills and make my knowledge better
+ - Learn and get used to react and coding best practices
  - Learn and be a part of a complete web development ecosystem
  
  ### 🔎 Long Term Goals:
- - Become a reference in the Web Development Community and being able to help others with my knowledge
- - Become the best boss ever!
+ - Become part of a transformation in society with my work and projects
+ - Become a reference in the Web Development Community and being able to help others by sharing my knowledge
  
 <div style="display: inline_block"><br>
   <img align="center" alt="michaelscott" src="https://miro.medium.com/max/1400/1*-SoJy52kgGuN9Fj9jmIb0Q.png">
