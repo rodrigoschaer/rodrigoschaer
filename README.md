@@ -46,7 +46,6 @@ Making the most of my time to become a Software Engineer. Currently undergraduat
 
  <div>
   <a href="https://www.linkedin.com/in/rodrigo-f-schaer/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoschaer&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoschaer&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
