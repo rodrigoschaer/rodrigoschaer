@@ -4,31 +4,32 @@
 ## About me!
  
  
-Making the most of my time to become a Software Engineer. Currently undergraduate in Electrical Engineering at Brazil. Since the beggining, engaged in student entities, exercising leadership and problem solving, therefore taking advantage of the best opportunities at the university. Currently an Industrial IT intern and aspiring front-end developer.
+Making the most of my time to become a better Software Engineer. Currently Jr. Software Engineer at Cora Bank.
  
- In my journey on becoming a software engineer, I've been focusing in front end development through react applications. 
+ In my journey on becoming a better software engineer, I've been focusing in front end development through react applications. 
  
  ### ✨ Here is a list of some nice things I have accomplished so far:
  - Concluded 50+ hours course: [Angela Yu's Bootcamp on WebDevelopment](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
  - Participated in [NLW React](https://nextlevelweek.com/pre-nlw)
  - Participated in [React Immersion by Alura](https://www.alura.com.br/imersao-react), appling TypeScript on my own to a React application
+ - [React Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
  
  ### 🌱 Things I am currently Learning:
- - Finishing Udemy [React Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
- - Testing in React (Nest.js)
- - UI's with React (Material, Chakra)
+
+ - Testing in React (Jest, React Testing Library)
+ - TDD and BDD
+ - Development best practices
  
  ### 👁‍🗨 Short Term Goals:
- - Get a job as a React developer to enhance my skills and make my knowledge better
- - Learn and get used to react and coding best practices
- - Learn and be a part of a complete web development ecosystem
+ - Enhance my skills and make my knowledge useful in real life applications
+ - Make great contributions to the community
  
  ### 🔎 Long Term Goals:
  - Become part of a transformation in society with my work and projects
  - Become a reference in the Web Development Community and being able to help others by sharing my knowledge
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="michaelscott" src="https://miro.medium.com/max/1400/1*-SoJy52kgGuN9Fj9jmIb0Q.png">
+  <img align="center" alt="michaelscott" height="360em" src="https://miro.medium.com/max/1400/1*-SoJy52kgGuN9Fj9jmIb0Q.png">
 </div>
  
  
