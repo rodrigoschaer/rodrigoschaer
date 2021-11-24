@@ -4,7 +4,7 @@
 ## About me!
  
  
-Making the most of my time to become a better Software Engineer. Currently Jr. Software Engineer at Cora Bank.
+Making the most of my time to become a better Software Engineer. Currently Jr. Software Engineer at [Cora](https://conta.cora.com.br/p/g/s/conta-digital/v2/).
  
  In my journey on becoming a better software engineer, I've been focusing in front end development through react applications. 
  
