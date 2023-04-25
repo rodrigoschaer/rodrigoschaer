@@ -13,8 +13,6 @@
   <a href="https://www.linkedin.com/in/rodrigo-f-schaer/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoschaer&layout=compact&langs_count=7&theme=prussian"/>
 </div>
-
-## Software Engineering Technologies
  
 <div style="display: inline_block"><br>
   <img align="center" alt="schaer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
