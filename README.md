@@ -11,7 +11,8 @@
   <a href="https://www.linkedin.com/in/rodrigo-f-schaer/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoschaer&layout=compact&langs_count=7&theme=prussian"/>
 </div>
- 
+
+ ### Some of my passions:
 <div style="display: inline_block"><br>
  <img align="center" alt="Go icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
  <img align="center" alt="Kotlin icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
