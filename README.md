@@ -1,4 +1,4 @@
-## Rodrigo Schaer | Software Engineer @ Cora
+## Rodrigo Schaer | Software Engineer @ Nubank
  Having fun and solving problems with technology!
 
  I strongly believe in recreative programming 🙂
