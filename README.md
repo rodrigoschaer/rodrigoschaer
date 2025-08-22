@@ -1,7 +1,5 @@
 ## Rodrigo Schaer | Software Engineer @ Nubank
- Having fun and solving problems with technology!
-
- I strongly believe in recreative programming 🙂
+ Having fun and solving problems with technology.
 
  ### 📫 Feel free to send me messages in my linkedin!
  
